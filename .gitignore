@@ -12,3 +12,7 @@ DATASTORE
 
 # default location for index specific levelDB data storage in a non-browser env
 INDEX
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
